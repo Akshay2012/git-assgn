@@ -1,1 +1,2 @@
 contents of file2 after modifications.
+Added from dev2
