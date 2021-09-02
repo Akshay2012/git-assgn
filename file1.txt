@@ -1,1 +1,3 @@
-contents of file1 after modifications.
+contents of file1 after modifications.hello akshay
+\n appending new line
+hello world
